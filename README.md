@@ -1,4 +1,4 @@
-# 📣  SELF-INTRODUCTION of ttingho
+# :loudspeaker: SELF-INTRODUCTION of ttingho
 
 > The project was created for the development of portfolio sites and web front-end study.
 
