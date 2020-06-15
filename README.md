@@ -1,8 +1,8 @@
-# 📣 SELF-INTRODUCTION of ttingho
+# SELF-INTRODUCTION of ttingho
 
 > The project was created for the development of portfolio sites and web front-end study.
 
-## 📃 Project Stack
+## Project Stack
 - React
 - React Router
 - TypeScript
